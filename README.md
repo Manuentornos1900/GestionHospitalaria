@@ -48,13 +48,13 @@ Para instalar y configurar la aplicación de tu entorno local,sigue los siguient
  ¿Quieres colaborar en el desarrollo?
 
   1. Haz un fork del repositorio.
-  2. Crea una nueva rama(git checkout -b feature/tu-mejora)
-  3. Realiza tus cambios y haz commit(git commit -am "Agrega nueva funcionalidad").
-  4. Haz push a la rama (git push origin feature/nueva-funcionalidad).
+  2. Crea una nueva rama(```git checkout -b feature/tu-mejora```)
+  3. Realiza tus cambios y haz commit(```git commit -am``` "Agrega nueva funcionalidad").
+  4. Haz push a la rama (```git push origin feature/nueva-funcionalidad```).
   5. Abre un pull request su revisión.
 
   ## Licencia
-  Este proyecto está bajo la licencia MIT.
+  [Este proyecto está bajo la licencia MIT.](https://opensource.org/license/MIT)
   
   ##
 Para obtener más información sobre la aplicación y su funcionamiento interno, consulta nuestra documentación técnica.
