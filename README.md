@@ -14,5 +14,6 @@ El Sistema de Gestión Hospitalaria desarrollado por el alumnado del **IES MIGUE
 
 ## Instalación
 Para instalar y configurar la aplicación de tu entorno local,sigue los siguientes pasos:
+     ## 
      1. Clona el repositorio desde GitHub:
-	 git clone (https://github.com/tu-usuario/gestion-extraescolares.git)
+	 git clone https://github.com/tu-usuario/gestion-extraescolares.git
