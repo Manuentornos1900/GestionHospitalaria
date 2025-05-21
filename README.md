@@ -2,9 +2,9 @@
 
 ## Indice
 + Documentación de la Aplicación de Gestión Hospitalaria
-+ -[Indice](#Indice)
-+ Introducción
-+ Instalación
-+ Uso
-+ Contribución
-+ Licencia
+++ [Indice](#Indice)
++ [Introducción](#Introducción)
++ [Instalación](#Instalación)
++ [Uso[(#Uso)
++ [Contribución](#Contribución)
++ [Licencia](#Licencia)
