@@ -61,6 +61,9 @@ Para obtener más información sobre la aplicación y su funcionamiento interno,
 
 Organismos colaboradores:
 
+![Miguel Herrero](./logoIESMHP.png)
+
+![Valdecilla foto](https://www.eiivaldecilla.es/wp-content/uploads/5525-nuevo-logo-valdecilla.jpg)
 
 
 	 
