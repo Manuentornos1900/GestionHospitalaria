@@ -17,7 +17,7 @@ Para instalar y configurar la aplicación de tu entorno local,sigue los siguient
     
      1. Clona el repositorio desde GitHub:
 	 
-        ```git clone https://github.com/tu-usuario/gestion-extraescolares.git```
+        git clone https://github.com/tu-usuario/gestion-extraescolares.git
     
     2. Abre el proyecto en tu entorno de desarrollo preferio(VSCode,Intellij...).
 
