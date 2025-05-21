@@ -2,7 +2,7 @@
 
 ## Indice
 + Documentación de la Aplicación de Gestión Hospitalaria
-+ Indice
++ -[Indice](#Indice)
 + Introducción
 + Instalación
 + Uso
